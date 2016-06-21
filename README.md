@@ -1,2 +1,3 @@
-# hellow-world
-just another repository
+# hello-world
+This is a little world in a big universe afterall...
+
